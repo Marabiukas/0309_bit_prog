@@ -1,10 +1,9 @@
 {
   "name": "0309_bit_prog",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --port=3001 --host=localhost",
+    "dev": "dead-server --port=3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "dead-server": "^1.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marabiukas/0309_bit_prog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marabiukas/0309_bit_prog/issues"
+  },
+  "homepage": "https://github.com/Marabiukas/0309_bit_prog#readme",
+  "description": ""
 }
